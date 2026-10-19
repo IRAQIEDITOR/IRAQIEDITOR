@@ -51,9 +51,9 @@ mindset   : Build • Test • Learn • Improve
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IRAQIEDITOR/IRAQIEDITOR/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IRAQIEDITOR/IRAQIEDITOR/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/IRAQIEDITOR/IRAQIEDITOR/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IRAQIEDITOR/IRAQIEDITOR/gh-pages/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IRAQIEDITOR/IRAQIEDITOR/gh-pages/github-contribution-grid-snake.svg" />
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/IRAQIEDITOR/IRAQIEDITOR/gh-pages/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -75,7 +75,8 @@ Keep improving every release.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=IRAQIEDITOR&label=PROFILE+VIEWS&color=ffb000&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/IRAQIEDITOR?label=FOLLOWERS&style=flat-square&color=ffb000&labelColor=0d1117" alt="GitHub followers" />
+<img src="https://img.shields.io/badge/PROFILE-ONLINE-ffb000?style=flat-square&labelColor=0d1117" alt="Profile status" />
 
 `IRAQIEDITOR@github:~$ _`
 
